@@ -1,0 +1,48 @@
+#food_llc {
+	margin-top: 20px;
+	padding-top: 3px;
+	padding-bottom: 0px; 
+	font-size: 150%;
+	color: black; 
+	font-weight: bold;
+	} 
+
+
+#header_nav{
+	background-color: #c5ebf0;
+	border: 2px solid black;
+}
+
+.outter{
+		padding: 5px;
+		}
+
+#first{
+	position: relative;
+	box-sizing: border-box;
+	margin: auto;
+	background-color: #c5ebf0;
+	border: 2px solid black;
+	}
+ 	
+#first p {
+	margin-top: 30px;
+	padding: 2px;
+}	
+
+
+ .title {
+ 	position: absolute;
+ 	right: 0;
+ 	top: 0;
+ 	box-sizing: border-box;
+   	padding: 5px;
+ 	border-left: 2px solid black;
+  	border-bottom: 2px solid black;
+  	background-color: #f0c5dc;
+  	}
+
+#text {
+	background-color: #777;
+	padding: 0;
+	}
